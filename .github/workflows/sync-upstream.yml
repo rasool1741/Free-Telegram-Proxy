@@ -12,8 +12,20 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Merge upstream main
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - uses: actions/checkout@v4
+      - name: Copy data from upstream
         run: |
-          gh api -X POST repos/${{ github.repository }}/merge-upstream -f branch=main
+          mkdir -p /tmp/up
+          curl -fsSL https://codeload.github.com/0xRadikal/Free-Telegram-Proxy/tar.gz/refs/heads/main | tar xz -C /tmp/up --strip-components=1
+          rsync -a --delete --exclude .git --exclude .github /tmp/up/ ./
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Sync data from upstream"
+            git push
+          fi
