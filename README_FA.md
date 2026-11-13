@@ -320,20 +320,20 @@ workflow بعد از هر انتشار، کش پرکاربردترین فایل�
 این بخش عکس نیست. ربات در هر اجرا آن را از همان `index.json` که لیست‌ها را توصیف می‌کند می‌سازد، پس نمی‌تواند با آن‌ها ناهماهنگ شود:
 
 <!-- LIVE:BEGIN -->
-**آخرین به‌روزرسانی:** `2026-11-13T09:14:49Z` · محل تست: `US` (`SEA`)
+**آخرین به‌روزرسانی:** `2026-11-13T17:29:39Z` · محل تست: `US` (`DFW`)
 
 | مرحله | تعداد |
 |---|---:|
-| لینک جمع‌آوری‌شده از همهٔ منابع | 5,248 |
-| سرور یکتا (IP:پورت) که تست شد | 3,565 |
-| **تأییدشده در همهٔ 3 دور** (لینک) | **2,269** |
-| همان‌ها، بر حسب **سرور واقعی** | **721** (645 IP) |
-| سهم پرتکرارترین IP از لینک‌های تأییدشده | 753 (33.2%) |
-| سهم بزرگ‌ترین شبکه (`AS24940`) از لینک‌های تأییدشده | 884 (39.0%) |
+| لینک جمع‌آوری‌شده از همهٔ منابع | 5,294 |
+| سرور یکتا (IP:پورت) که تست شد | 3,523 |
+| **تأییدشده در همهٔ 3 دور** (لینک) | **2,166** |
+| همان‌ها، بر حسب **سرور واقعی** | **699** (634 IP) |
+| سهم پرتکرارترین IP از لینک‌های تأییدشده | 784 (36.2%) |
+| سهم بزرگ‌ترین شبکه (`48.103.142.0/24`) از لینک‌های تأییدشده | 784 (36.2%) |
 
-`resilient` 645 · `fast` 183 · `stable` 624 · `verified` 2269 · `faketls` 183 · `secure` 157 · `classic` 325 · `all` 5248
+`resilient` 634 · `fast` 178 · `stable` 609 · `verified` 2166 · `faketls` 184 · `secure` 146 · `classic` 317 · `all` 5294
 
-[🇩🇪 DE 233](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/DE.txt) [🇮🇷 IR 137](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/IR.txt) [🇫🇮 FI 101](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FI.txt) [🇳🇱 NL 59](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/NL.txt) [🇭🇰 HK 23](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/HK.txt) [🇺🇸 US 17](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/US.txt) [🇷🇺 RU 13](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/RU.txt) [🇵🇱 PL 9](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/PL.txt) [🇸🇪 SE 8](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/SE.txt) [🇫🇷 FR 6](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FR.txt) [🇬🇧 GB 6](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/GB.txt) [🇸🇬 SG 5](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/SG.txt)
+[🇩🇪 DE 227](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/DE.txt) [🇮🇷 IR 135](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/IR.txt) [🇫🇮 FI 99](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FI.txt) [🇳🇱 NL 58](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/NL.txt) [🇭🇰 HK 21](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/HK.txt) [🇺🇸 US 16](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/US.txt) [🇷🇺 RU 12](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/RU.txt) [🇸🇪 SE 10](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/SE.txt) [🇵🇱 PL 8](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/PL.txt) [🇬🇧 GB 7](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/GB.txt) [🇫🇷 FR 6](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FR.txt) [🇸🇬 SG 5](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/SG.txt)
 <!-- LIVE:END -->
 
 **دو ردیف مهم «لینک‌های تأییدشده» و «سرورهای واقعی» است.** در اجرای `2026-10-28T15:54:58Z` (تست از 🇺🇸 آمریکا، colo کلادفلر `ORD`)، **۱٬۹۱۹** لینک تأییدشده فقط به **۴۰۹** سرور روی **۳۶۶** IP می‌رسیدند — و یک IP به‌تنهایی **۱٬۰۳۳** تا از آن‌ها را داشت (**۵۳٫۸٪**). شمردن لینک به‌تنهایی تعداد IPهای متمایز سرور را **۵٫۲ برابر** بیشتر نشان می‌داد. همین فاصله کل دلیل وجود `resilient/` (از هر IP یک لینک) و سقف شبکه در Top 100 است.
