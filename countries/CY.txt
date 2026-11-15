@@ -1,1 +1,3 @@
+tg://proxy?server=n8f63d0.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
+tg://proxy?server=n11bedf.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
 tg://proxy?server=chto-za-internet.online&port=443&secret=eededaca910c735dcdadb6952778e3a2106368746f2d7a612d696e7465726e65742e6f6e6c696e65
