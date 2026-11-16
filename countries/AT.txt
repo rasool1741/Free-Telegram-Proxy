@@ -1,0 +1,1 @@
+tg://proxy?server=asa.travobet.site&port=9443&secret=ee78db693a0d664a63b9f52b095314b270706574726f766963682e7275
