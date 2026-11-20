@@ -284,20 +284,20 @@ This block is not a screenshot. The bot regenerates it on every run from the sam
 that describes the lists, so it cannot drift from them:
 
 <!-- LIVE:BEGIN -->
-**Last update:** `2026-11-20T11:08:31Z` · tested from `US` (Cloudflare colo `LAX`)
+**Last update:** `2026-11-20T19:53:37Z` · tested from `US` (Cloudflare colo `PDX`)
 
 | Stage | Count |
 |---|---:|
-| links collected from all sources | 5,272 |
-| unique servers (IP:port) probed | 3,371 |
-| **verified in all 3 rounds** (links) | **1,895** |
-| the same, counted as **real servers** | **505** (457 IPs) |
-| largest single IP's share of verified links | 836 (44.1%) |
-| largest network's (`48.103.142.0/24`) share of verified links | 836 (44.1%) |
+| links collected from all sources | 5,291 |
+| unique servers (IP:port) probed | 3,405 |
+| **verified in all 3 rounds** (links) | **1,918** |
+| the same, counted as **real servers** | **509** (464 IPs) |
+| largest single IP's share of verified links | 844 (44.0%) |
+| largest network's (`AS215133`) share of verified links | 1,026 (53.5%) |
 
-`resilient` 457 · `fast` 128 · `stable` 416 · `verified` 1895 · `faketls` 155 · `secure` 111 · `classic` 201 · `all` 5272
+`resilient` 464 · `fast` 124 · `stable` 403 · `verified` 1918 · `faketls` 160 · `secure` 102 · `classic` 210 · `all` 5291
 
-[🇮🇷 IR 128](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/IR.txt) [🇩🇪 DE 104](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/DE.txt) [🇳🇱 NL 70](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/NL.txt) [🇫🇮 FI 48](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FI.txt) [🇭🇰 HK 13](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/HK.txt) [🇲🇩 MD 11](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/MD.txt) [🇺🇸 US 10](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/US.txt) [🇫🇷 FR 9](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FR.txt) [🇵🇱 PL 9](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/PL.txt) [🇷🇺 RU 9](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/RU.txt) [🇬🇧 GB 7](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/GB.txt) [🇸🇪 SE 7](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/SE.txt)
+[🇮🇷 IR 123](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/IR.txt) [🇩🇪 DE 117](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/DE.txt) [🇳🇱 NL 70](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/NL.txt) [🇫🇮 FI 45](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FI.txt) [🇭🇰 HK 15](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/HK.txt) [🇷🇺 RU 14](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/RU.txt) [🇺🇸 US 12](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/US.txt) [🇫🇷 FR 10](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FR.txt) [🇲🇩 MD 8](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/MD.txt) [🇵🇱 PL 8](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/PL.txt) [🇸🇪 SE 8](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/SE.txt) [🇬🇧 GB 7](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/GB.txt)
 <!-- LIVE:END -->
 
 **The two rows that matter are "verified links" and "real servers".** In the run of
