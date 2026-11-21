@@ -1,10 +1,11 @@
 tg://proxy?server=a.similemat.com&port=12341&secret=4170ef4862902c504d0e3e8c38d5fa24
-tg://proxy?server=beartunnel.co&port=443&secret=3a9f7c8b1e2d4f6a5c0b9d8e7f1a2c3d
-tg://proxy?server=formuse.new.tg&port=8880&secret=2cf6777b57d6b42378e1c727c339c63c
 tg://proxy?server=3.149.86.139&port=8443&secret=ee7f19d4230173736615aca50d4a67aeaa7370656564746573742e6e6574
 tg://proxy?server=bearencrypt.co&port=443&secret=5e8a1c3d7f2b9a4c6d0e1f8b3a7c2d9e
-tg://proxy?server=tm.mosibat.in&port=45745&secret=67c3d2dc3b106f273c7afd103d441041
+tg://proxy?server=beartunnel.co&port=443&secret=3a9f7c8b1e2d4f6a5c0b9d8e7f1a2c3d
 tg://proxy?server=top.deal-market.xyz&port=853&secret=eed54b7276c5dfb4e0ecb7996de53dc9ae696e74656c2e636f6d
-tg://proxy?server=23.128.248.150&port=3128&secret=ddc5d1717f50bdab002e1ba52d9ed8f2fe
+tg://proxy?server=tm.mosibat.in&port=45745&secret=67c3d2dc3b106f273c7afd103d441041
+tg://proxy?server=breeze.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94627265657a652e7061706572746561706f742e636f6d
+tg://proxy?server=dearly.netherus.com&port=443&secret=ee44cd74d18707cd8bb74920a99d445599646561726c792e6e657468657275732e636f6d
 tg://proxy?server=104.250.239.16&port=12347&secret=ee0791ecfea02ec47e40f8d4583e4a7e767777772e6d6963726f736f66742e636f6d
 tg://proxy?server=23.238.92.12&port=443&secret=cd7ca69a7459a76443678fe79b037684
+tg://proxy?server=23.128.248.150&port=3128&secret=ddc5d1717f50bdab002e1ba52d9ed8f2fe
