@@ -320,20 +320,20 @@ workflow بعد از هر انتشار، کش پرکاربردترین فایل�
 این بخش عکس نیست. ربات در هر اجرا آن را از همان `index.json` که لیست‌ها را توصیف می‌کند می‌سازد، پس نمی‌تواند با آن‌ها ناهماهنگ شود:
 
 <!-- LIVE:BEGIN -->
-**آخرین به‌روزرسانی:** `2026-11-21T17:08:24Z` · محل تست: `US` (`IAD`)
+**آخرین به‌روزرسانی:** `2026-11-21T22:53:21Z` · محل تست: `US` (`DFW`)
 
 | مرحله | تعداد |
 |---|---:|
-| لینک جمع‌آوری‌شده از همهٔ منابع | 5,387 |
-| سرور یکتا (IP:پورت) که تست شد | 3,468 |
-| **تأییدشده در همهٔ 3 دور** (لینک) | **1,906** |
-| همان‌ها، بر حسب **سرور واقعی** | **530** (483 IP) |
-| سهم پرتکرارترین IP از لینک‌های تأییدشده | 815 (42.8%) |
-| سهم بزرگ‌ترین شبکه (`AS9304`) از لینک‌های تأییدشده | 897 (47.1%) |
+| لینک جمع‌آوری‌شده از همهٔ منابع | 5,331 |
+| سرور یکتا (IP:پورت) که تست شد | 3,433 |
+| **تأییدشده در همهٔ 3 دور** (لینک) | **2,177** |
+| همان‌ها، بر حسب **سرور واقعی** | **568** (508 IP) |
+| سهم پرتکرارترین IP از لینک‌های تأییدشده | 845 (38.8%) |
+| سهم بزرگ‌ترین شبکه (`AS9304`) از لینک‌های تأییدشده | 1,062 (48.8%) |
 
-`resilient` 483 · `fast` 132 · `stable` 431 · `verified` 1906 · `faketls` 151 · `secure` 109 · `classic` 232 · `all` 5387
+`resilient` 508 · `fast` 131 · `stable` 436 · `verified` 2177 · `faketls` 162 · `secure` 117 · `classic` 240 · `all` 5331
 
-[🇮🇷 IR 127](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/IR.txt) [🇩🇪 DE 124](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/DE.txt) [🇳🇱 NL 75](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/NL.txt) [🇫🇮 FI 54](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FI.txt) [🇭🇰 HK 16](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/HK.txt) [🇲🇩 MD 12](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/MD.txt) [🇷🇺 RU 11](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/RU.txt) [🇫🇷 FR 9](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FR.txt) [🇺🇸 US 8](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/US.txt) [🇵🇱 PL 7](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/PL.txt) [🇸🇪 SE 7](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/SE.txt) [🇬🇧 GB 6](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/GB.txt)
+[🇩🇪 DE 139](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/DE.txt) [🇮🇷 IR 125](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/IR.txt) [🇳🇱 NL 73](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/NL.txt) [🇫🇮 FI 58](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FI.txt) [🇭🇰 HK 18](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/HK.txt) [🇲🇩 MD 13](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/MD.txt) [🇷🇺 RU 13](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/RU.txt) [🇫🇷 FR 11](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FR.txt) [🇵🇱 PL 9](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/PL.txt) [🇺🇸 US 8](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/US.txt) [🇬🇧 GB 7](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/GB.txt) [🇸🇪 SE 7](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/SE.txt)
 <!-- LIVE:END -->
 
 **دو ردیف مهم «لینک‌های تأییدشده» و «سرورهای واقعی» است.** در اجرای `2026-10-28T15:54:58Z` (تست از 🇺🇸 آمریکا، colo کلادفلر `ORD`)، **۱٬۹۱۹** لینک تأییدشده فقط به **۴۰۹** سرور روی **۳۶۶** IP می‌رسیدند — و یک IP به‌تنهایی **۱٬۰۳۳** تا از آن‌ها را داشت (**۵۳٫۸٪**). شمردن لینک به‌تنهایی تعداد IPهای متمایز سرور را **۵٫۲ برابر** بیشتر نشان می‌داد. همین فاصله کل دلیل وجود `resilient/` (از هر IP یک لینک) و سقف شبکه در Top 100 است.
