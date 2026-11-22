@@ -1,10 +1,5 @@
 {
  "countries": {
-  "BG": {
-   "count": 1,
-   "flag": "🇧🇬",
-   "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/BG.txt"
-  },
   "CA": {
    "count": 3,
    "flag": "🇨🇦",
@@ -26,7 +21,7 @@
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/ES.txt"
   },
   "FI": {
-   "count": 58,
+   "count": 56,
    "flag": "🇫🇮",
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FI.txt"
   },
@@ -36,7 +31,7 @@
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FR.txt"
   },
   "GB": {
-   "count": 7,
+   "count": 6,
    "flag": "🇬🇧",
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/GB.txt"
   },
@@ -56,12 +51,12 @@
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/IN.txt"
   },
   "IR": {
-   "count": 125,
+   "count": 127,
    "flag": "🇮🇷",
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/IR.txt"
   },
   "JP": {
-   "count": 2,
+   "count": 1,
    "flag": "🇯🇵",
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/JP.txt"
   },
@@ -80,18 +75,13 @@
    "flag": "🇱🇺",
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/LU.txt"
   },
-  "LV": {
-   "count": 1,
-   "flag": "🇱🇻",
-   "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/LV.txt"
-  },
   "MD": {
    "count": 13,
    "flag": "🇲🇩",
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/MD.txt"
   },
   "NL": {
-   "count": 73,
+   "count": 75,
    "flag": "🇳🇱",
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/NL.txt"
   },
@@ -101,12 +91,12 @@
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/PL.txt"
   },
   "RO": {
-   "count": 1,
+   "count": 2,
    "flag": "🇷🇴",
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/RO.txt"
   },
   "RU": {
-   "count": 13,
+   "count": 11,
    "flag": "🇷🇺",
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/RU.txt"
   },
@@ -126,7 +116,7 @@
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/TR.txt"
   },
   "US": {
-   "count": 8,
+   "count": 7,
    "flag": "🇺🇸",
    "url": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/US.txt"
   }
@@ -141,102 +131,102 @@
   "verified": "relayed a real MTProto request to Telegram DC and got our nonce back, in all 3 rounds"
  },
  "funnel": {
-  "dc_ok_any_round": 2231,
-  "dns_ok": 4794,
-  "links_collected": 5331,
-  "tcp_ok": 2989,
+  "dc_ok_any_round": 2233,
+  "dns_ok": 4760,
+  "links_collected": 5295,
+  "tcp_ok": 2965,
   "top_ip_share": {
-   "links": 845,
-   "share": 0.3881
+   "links": 846,
+   "share": 0.384
   },
   "top_network_share": {
-   "links": 1062,
+   "links": 1063,
    "network": "AS9304",
-   "share": 0.4878
+   "share": 0.4825
   },
-  "unique_servers_probed": 3433,
-  "unique_targets_probed": 4193,
-  "verified_ips": 508,
-  "verified_links": 2177,
-  "verified_servers": 568
+  "unique_servers_probed": 3368,
+  "unique_targets_probed": 4127,
+  "verified_ips": 504,
+  "verified_links": 2203,
+  "verified_servers": 572
  },
  "mirror_prefix": "https://cdn.jsdelivr.net/gh/0xRadikal/Free-Telegram-Proxy@main",
  "rounds": 3,
  "runner": {
-  "colo": "DFW",
+  "colo": "IAD",
   "loc": "US"
  },
  "schema": 1,
  "tiers": {
   "all": {
-   "count": 5331,
+   "count": 5295,
    "files": {
     "tg.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/all/tg.txt"
    },
-   "servers": 2889
+   "servers": 2864
   },
   "classic": {
-   "count": 240,
+   "count": 239,
    "files": {
     "proxies.json": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/classic/proxies.json",
     "tg.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/classic/tg.txt",
     "tme.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/classic/tme.txt"
    },
-   "servers": 240
+   "servers": 239
   },
   "faketls": {
-   "count": 162,
+   "count": 158,
    "files": {
     "proxies.json": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/faketls/proxies.json",
     "tg.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/faketls/tg.txt",
     "tme.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/faketls/tme.txt"
    },
-   "servers": 162
+   "servers": 158
   },
   "fast": {
-   "count": 131,
+   "count": 170,
    "files": {
     "proxies.json": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/fast/proxies.json",
     "tg.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/fast/tg.txt",
     "tme.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/fast/tme.txt"
    },
-   "servers": 131
+   "servers": 170
   },
   "resilient": {
-   "count": 508,
+   "count": 504,
    "files": {
     "proxies.json": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/resilient/proxies.json",
     "tg.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/resilient/tg.txt",
     "tme.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/resilient/tme.txt"
    },
-   "servers": 508
+   "servers": 504
   },
   "secure": {
-   "count": 117,
+   "count": 119,
    "files": {
     "proxies.json": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/secure/proxies.json",
     "tg.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/secure/tg.txt",
     "tme.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/secure/tme.txt"
    },
-   "servers": 117
+   "servers": 119
   },
   "stable": {
-   "count": 436,
+   "count": 439,
    "files": {
     "proxies.json": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/stable/proxies.json",
     "tg.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/stable/tg.txt",
     "tme.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/stable/tme.txt"
    },
-   "servers": 436
+   "servers": 439
   },
   "verified": {
-   "count": 2177,
+   "count": 2203,
    "files": {
     "proxies.json": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/verified/proxies.json",
     "tg.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/verified/tg.txt",
     "tme.txt": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/verified/tme.txt"
    },
-   "servers": 568
+   "servers": 572
   }
  },
  "top100": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/top100.txt",
@@ -248,6 +238,6 @@
   "proven": 100
  },
  "top50": "https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/top50.txt",
- "updated": "2026-11-21T22:53:21Z",
- "updated_unix": 1795301601
+ "updated": "2026-11-22T02:53:15Z",
+ "updated_unix": 1795315995
 }
