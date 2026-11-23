@@ -1,3 +1,2 @@
-tg://proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b
-tg://proxy?server=158.247.234.65&port=9443&secret=2adab36179e7a39026adf74034615248
 tg://proxy?server=64.176.231.154&port=8443&secret=2adab36179e7a39026adf74034615248
+tg://proxy?server=158.247.234.65&port=9443&secret=2adab36179e7a39026adf74034615248

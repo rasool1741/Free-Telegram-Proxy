@@ -1,1 +1,2 @@
 tg://proxy?server=193.26.115.138&port=443&secret=eef200b7138424bb9f8fef33d1b56fba407275747562652e7275
+tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374
