@@ -1,9 +1,7 @@
-tg://proxy?server=pro.rocketpro.isroot.in&port=64953&secret=6e4c38e51df0ed03a32a340f709b899f
-tg://proxy?server=104.250.239.16&port=12347&secret=ee0791ecfea02ec47e40f8d4583e4a7e767777772e6d6963726f736f66742e636f6d
 tg://proxy?server=a.similemat.com&port=12341&secret=4170ef4862902c504d0e3e8c38d5fa24
-tg://proxy?server=23.238.92.12&port=443&secret=cd7ca69a7459a76443678fe79b037684
-tg://proxy?server=bearencrypt.co&port=443&secret=5e8a1c3d7f2b9a4c6d0e1f8b3a7c2d9e
+tg://proxy?server=pro.rocketpro.isroot.in&port=64953&secret=6e4c38e51df0ed03a32a340f709b899f
 tg://proxy?server=beartunnel.co&port=443&secret=3a9f7c8b1e2d4f6a5c0b9d8e7f1a2c3d
-tg://proxy?server=dearly.netherus.com&port=443&secret=ee44cd74d18707cd8bb74920a99d445599646561726c792e6e657468657275732e636f6d
-tg://proxy?server=23.128.248.150&port=3128&secret=ddc5d1717f50bdab002e1ba52d9ed8f2fe
-tg://proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b
+tg://proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970
+tg://proxy?server=bearencrypt.co&port=443&secret=5e8a1c3d7f2b9a4c6d0e1f8b3a7c2d9e
+tg://proxy?server=104.250.239.16&port=12347&secret=ee0791ecfea02ec47e40f8d4583e4a7e767777772e6d6963726f736f66742e636f6d
+tg://proxy?server=23.238.92.12&port=443&secret=cd7ca69a7459a76443678fe79b037684
