@@ -1,2 +1,2 @@
 tg://proxy?server=193.26.115.138&port=443&secret=eef200b7138424bb9f8fef33d1b56fba407275747562652e7275
-tg://proxy?server=rabotaetwork.lol&port=443&secret=ee47de80df1bc0d9445e351affb498dc6a7261626f74616574776f726b2e6c6f6c
+tg://proxy?server=www.tgda.best&port=443&secret=ee03744a1a378ea98bbaa8d388b30332727777772e746764612e62657374
