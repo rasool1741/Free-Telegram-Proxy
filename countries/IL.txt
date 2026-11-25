@@ -1,0 +1,2 @@
+tg://proxy?server=bamboo.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9462616d626f6f2e7061706572746561706f742e636f6d
+tg://proxy?server=amber.tealbriar.xyz&port=8443&secret=ee161a50ae8c2609a3df6daa30ca2dfb9f786170692e6f7a6f6e2e7275
