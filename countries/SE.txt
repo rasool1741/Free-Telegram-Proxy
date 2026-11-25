@@ -1,7 +1,8 @@
 tg://proxy?server=edge.core.sx&port=443&secret=ee2b457f1b779f27467e6401b49a1899f8656467652e636f72652e7378
+tg://proxy?server=its.fastprx.co.uk&port=2086&secret=d2289d65c760a8245e24ffc2e3a3ba27
 tg://proxy?server=mt-sw.alex-photo-notes.pl&port=443&secret=eeee677bf5d2356b3744e1208cc35d70887777772e676f6f676c652e636f6d
+tg://proxy?server=my.fastprx.co.uk&port=2052&secret=aea1191522c9b281d2633610a34e730d
 tg://proxy?server=51.21.149.196&port=443&secret=e8da6fda391b335dff2083634c9e7db5
-tg://proxy?server=pro3.rocketpro.isroot.in&port=443&secret=eede6a059c675bc4da54f3b4712ac965337777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=89.127.201.206&port=443&secret=ee02ad2cb059cc54486e3499efc3170e2c7777772e617669746f2e7275
 tg://proxy?server=31.76.81.29&port=8443&secret=eef2697ae957a606f9c71634cc538216797777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=89.127.201.206&port=443&secret=ee02ad2cb059cc54486e3499efc3170e2c7777772e617669746f2e7275
 tg://proxy?server=132.243.231.76&port=443&secret=ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275
