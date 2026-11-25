@@ -1,0 +1,1 @@
+tg://proxy?server=yostavpn.casacam.net&port=443&secret=eefd53c37c26a2c41b56660286b32ee590796f73746176706e2e6361736163616d2e6e6574
