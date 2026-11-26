@@ -320,20 +320,20 @@ workflow بعد از هر انتشار، کش پرکاربردترین فایل�
 این بخش عکس نیست. ربات در هر اجرا آن را از همان `index.json` که لیست‌ها را توصیف می‌کند می‌سازد، پس نمی‌تواند با آن‌ها ناهماهنگ شود:
 
 <!-- LIVE:BEGIN -->
-**آخرین به‌روزرسانی:** `2026-11-25T22:08:26Z` · محل تست: `US` (`MSP`)
+**آخرین به‌روزرسانی:** `2026-11-26T04:38:20Z` · محل تست: `US` (`ATL`)
 
 | مرحله | تعداد |
 |---|---:|
-| لینک جمع‌آوری‌شده از همهٔ منابع | 5,441 |
-| سرور یکتا (IP:پورت) که تست شد | 3,450 |
-| **تأییدشده در همهٔ 3 دور** (لینک) | **2,403** |
-| همان‌ها، بر حسب **سرور واقعی** | **584** (518 IP) |
-| سهم پرتکرارترین IP از لینک‌های تأییدشده | 821 (34.2%) |
-| سهم بزرگ‌ترین شبکه (`79.182.228.0/24`) از لینک‌های تأییدشده | 1,123 (46.7%) |
+| لینک جمع‌آوری‌شده از همهٔ منابع | 5,443 |
+| سرور یکتا (IP:پورت) که تست شد | 3,453 |
+| **تأییدشده در همهٔ 3 دور** (لینک) | **2,406** |
+| همان‌ها، بر حسب **سرور واقعی** | **585** (516 IP) |
+| سهم پرتکرارترین IP از لینک‌های تأییدشده | 823 (34.2%) |
+| سهم بزرگ‌ترین شبکه (`79.182.228.0/24`) از لینک‌های تأییدشده | 1,128 (46.9%) |
 
-`resilient` 518 · `fast` 135 · `stable` 468 · `verified` 2403 · `faketls` 169 · `secure` 130 · `classic` 241 · `all` 5441
+`resilient` 516 · `fast` 177 · `stable` 471 · `verified` 2406 · `faketls` 170 · `secure` 130 · `classic` 239 · `all` 5443
 
-[🇮🇷 IR 163](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/IR.txt) [🇩🇪 DE 121](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/DE.txt) [🇳🇱 NL 65](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/NL.txt) [🇫🇮 FI 57](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FI.txt) [🇲🇩 MD 13](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/MD.txt) [🇫🇷 FR 12](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FR.txt) [🇭🇰 HK 12](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/HK.txt) [🇷🇺 RU 10](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/RU.txt) [🇺🇸 US 10](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/US.txt) [🇬🇧 GB 9](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/GB.txt) [🇵🇱 PL 9](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/PL.txt) [🇸🇪 SE 8](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/SE.txt)
+[🇮🇷 IR 163](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/IR.txt) [🇩🇪 DE 122](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/DE.txt) [🇳🇱 NL 64](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/NL.txt) [🇫🇮 FI 61](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FI.txt) [🇫🇷 FR 12](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/FR.txt) [🇷🇺 RU 12](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/RU.txt) [🇭🇰 HK 11](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/HK.txt) [🇺🇸 US 11](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/US.txt) [🇲🇩 MD 10](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/MD.txt) [🇵🇱 PL 9](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/PL.txt) [🇸🇪 SE 7](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/SE.txt) [🇬🇧 GB 6](https://raw.githubusercontent.com/0xRadikal/Free-Telegram-Proxy/main/countries/GB.txt)
 <!-- LIVE:END -->
 
 **دو ردیف مهم «لینک‌های تأییدشده» و «سرورهای واقعی» است.** در اجرای `2026-10-28T15:54:58Z` (تست از 🇺🇸 آمریکا، colo کلادفلر `ORD`)، **۱٬۹۱۹** لینک تأییدشده فقط به **۴۰۹** سرور روی **۳۶۶** IP می‌رسیدند — و یک IP به‌تنهایی **۱٬۰۳۳** تا از آن‌ها را داشت (**۵۳٫۸٪**). شمردن لینک به‌تنهایی تعداد IPهای متمایز سرور را **۵٫۲ برابر** بیشتر نشان می‌داد. همین فاصله کل دلیل وجود `resilient/` (از هر IP یک لینک) و سقف شبکه در Top 100 است.
