@@ -1,1 +1,2 @@
 tg://proxy?server=78.135.73.33&port=443&secret=ee897867104f62fbcd5445d07208de66047777772e646e732d73686f702e7275
+tg://proxy?server=tr-proxy.matialz.xyz&port=9443&secret=eebe10758254b6255d6ba297c2cb8b46fc636c6f7564666c6172652e636f6d
