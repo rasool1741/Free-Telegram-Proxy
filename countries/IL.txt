@@ -1,5 +1,3 @@
-tg://proxy?server=aurora.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946175726f72612e7061706572746561706f742e636f6d
 tg://proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b
 tg://proxy?server=amber.tealbriar.xyz&port=8443&secret=ee161a50ae8c2609a3df6daa30ca2dfb9f786170692e6f7a6f6e2e7275
-tg://proxy?server=77z.telehelp.top&port=443&secret=ee35888c63447fbe850611413ae180958f37377a2e74656c6568656c702e746f70
-tg://proxy?server=clover.kelpmoor.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9786170692e6f7a6f6e2e7275
+tg://proxy?server=autumn.sorrelbay.xyz&port=443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9617669746f2e7275

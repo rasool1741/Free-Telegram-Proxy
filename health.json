@@ -1,60 +1,60 @@
 {
  "funnel": {
-  "dc_ok_any_round": 2455,
-  "dns_ok": 5064,
-  "links_collected": 5632,
-  "tcp_ok": 3193,
+  "dc_ok_any_round": 2533,
+  "dns_ok": 4913,
+  "links_collected": 5460,
+  "tcp_ok": 3173,
   "top_ip_share": {
-   "links": 819,
-   "share": 0.338
+   "links": 820,
+   "share": 0.3255
   },
   "top_network_share": {
-   "links": 1001,
-   "network": "79.182.228.0/24",
-   "share": 0.4131
+   "links": 982,
+   "network": "79.182.251.0/24",
+   "share": 0.3898
   },
-  "unique_servers_probed": 3530,
-  "unique_targets_probed": 4429,
-  "verified_ips": 533,
-  "verified_links": 2423,
-  "verified_servers": 602
+  "unique_servers_probed": 3376,
+  "unique_targets_probed": 4272,
+  "verified_ips": 551,
+  "verified_links": 2519,
+  "verified_servers": 630
  },
  "geoip": "DB-IP Lite (CC BY 4.0)",
  "operators": [
   {
    "asn": null,
-   "links": 1257,
+   "links": 1276,
    "org": null
   },
   {
    "asn": 24940,
-   "links": 519,
+   "links": 539,
    "org": "Hetzner Online GmbH"
   },
   {
    "asn": 201309,
-   "links": 183,
+   "links": 185,
    "org": "Morteza Imani Bidgoli"
   },
   {
    "asn": 214639,
-   "links": 68,
+   "links": 124,
    "org": "TAKEHOST OU"
   },
   {
-   "asn": 207513,
-   "links": 36,
-   "org": "LLC \"HOSTOFF CSL\""
-  },
-  {
-   "asn": 201194,
-   "links": 33,
-   "org": "Nahor Hadish Design and Architecture Co., Ltd"
+   "asn": 57043,
+   "links": 37,
+   "org": "HOSTKEY B.V."
   },
   {
    "asn": 208673,
-   "links": 32,
+   "links": 33,
    "org": "ESTOXY OU"
+  },
+  {
+   "asn": 201194,
+   "links": 32,
+   "org": "Nahor Hadish Design and Architecture Co., Ltd"
   },
   {
    "asn": 210644,
@@ -68,47 +68,47 @@
   },
   {
    "asn": 13335,
-   "links": 24,
+   "links": 21,
    "org": "Cloudflare, Inc."
   }
  ],
  "per_round_ok_targets": [
+  1593,
   1575,
-  1552,
-  1528
+  1567
  ],
  "reasons": {
-  "ConnectionResetError": 97,
-  "dc:bad-frame": 70,
-  "dns": 568,
-  "eof": 165,
-  "flaky": 32,
-  "multi-ip:some-addresses-fail": 76,
-  "non-public-ip": 9,
-  "tcp:ConnectionRefusedError": 440,
-  "tcp:OSError": 9,
-  "tcp:timeout": 1394,
-  "timeout": 43,
-  "tls:bad-hello": 305,
+  "ConnectionResetError": 88,
+  "dc:bad-frame": 59,
+  "dns": 547,
+  "eof": 167,
+  "flaky": 14,
+  "multi-ip:some-addresses-fail": 18,
+  "non-public-ip": 1,
+  "tcp:ConnectionRefusedError": 412,
+  "tcp:OSError": 4,
+  "tcp:timeout": 1306,
+  "timeout": 33,
+  "tls:bad-hello": 291,
   "tls:hmac-mismatch": 1
  },
  "runner": {
-  "colo": "IAD",
+  "colo": "LAX",
   "loc": "US"
  },
  "sources": [
   {
    "attempts": 1,
    "error": null,
-   "exclusive_verified_servers": 57,
-   "found": 872,
+   "exclusive_verified_servers": 64,
+   "found": 874,
    "http": 200,
    "id": "tgmtproxy",
    "kind": "github",
-   "ms": 388,
+   "ms": 156,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/tgmtproxy/telegram-mtproto-proxy-list/main/proxies.txt",
-   "verified": 657
+   "verified": 660
   },
   {
    "attempts": 1,
@@ -118,7 +118,7 @@
    "http": 200,
    "id": "tgproxypink",
    "kind": "github",
-   "ms": 420,
+   "ms": 379,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/tgproxypink/telegram-proxy-list/main/mtproto.txt",
    "verified": 497
@@ -131,7 +131,7 @@
    "http": 200,
    "id": "weltimistar",
    "kind": "github",
-   "ms": 38,
+   "ms": 132,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/weltimistar777-crypto/MTProxy/refs/heads/main/proxy.txt",
    "verified": 13
@@ -139,103 +139,103 @@
   {
    "attempts": 1,
    "error": null,
-   "exclusive_verified_servers": 10,
-   "found": 484,
+   "exclusive_verified_servers": 13,
+   "found": 372,
    "http": 200,
    "id": "vestranet",
    "kind": "github",
-   "ms": 362,
+   "ms": 138,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/mtproto.txt",
-   "verified": 213
+   "verified": 292
   },
   {
    "attempts": 1,
    "error": null,
-   "exclusive_verified_servers": 154,
+   "exclusive_verified_servers": 159,
    "found": 3434,
    "http": 200,
    "id": "weltimistar-archive",
    "kind": "github",
-   "ms": 339,
+   "ms": 363,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/weltimistar777-crypto/MTProxy/refs/heads/main/archives.txt",
-   "verified": 932
+   "verified": 993
   },
   {
    "attempts": 1,
    "error": null,
-   "exclusive_verified_servers": 1,
+   "exclusive_verified_servers": 2,
    "found": 200,
    "http": 200,
    "id": "dubblebyte",
    "kind": "github",
-   "ms": 393,
+   "ms": 130,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/dubblebyte/free-mtproto-proxies/main/all_proxies.txt",
-   "verified": 181
-  },
-  {
-   "attempts": 1,
-   "error": null,
-   "exclusive_verified_servers": 3,
-   "found": 49,
-   "http": 200,
-   "id": "ryazhapov",
-   "kind": "github",
-   "ms": 367,
-   "status": "ok",
-   "url": "https://raw.githubusercontent.com/ryazhapov/tg-proxy-list/main/proxy.txt",
-   "verified": 48
-  },
-  {
-   "attempts": 1,
-   "error": null,
-   "exclusive_verified_servers": 1,
-   "found": 194,
-   "http": 200,
-   "id": "therealwh-eu",
-   "kind": "github",
-   "ms": 366,
-   "status": "ok",
-   "url": "https://raw.githubusercontent.com/Therealwh/MTPproxyLIST/refs/heads/main/verified/proxy_eu_verified.txt",
-   "verified": 158
-  },
-  {
-   "attempts": 1,
-   "error": null,
-   "exclusive_verified_servers": 6,
-   "found": 342,
-   "http": 200,
-   "id": "surfboard",
-   "kind": "github",
-   "ms": 56,
-   "status": "ok",
-   "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies.txt",
-   "verified": 261
+   "verified": 187
   },
   {
    "attempts": 1,
    "error": null,
    "exclusive_verified_servers": 0,
-   "found": 461,
+   "found": 52,
    "http": 200,
-   "id": "argh94-scraper",
+   "id": "ryazhapov",
    "kind": "github",
-   "ms": 86,
+   "ms": 390,
    "status": "ok",
-   "url": "https://raw.githubusercontent.com/Argh94/telegram-proxy-scraper/refs/heads/main/proxy.txt",
-   "verified": 426
+   "url": "https://raw.githubusercontent.com/ryazhapov/tg-proxy-list/main/proxy.txt",
+   "verified": 51
   },
   {
    "attempts": 1,
    "error": null,
-   "exclusive_verified_servers": 1,
+   "exclusive_verified_servers": 4,
+   "found": 186,
+   "http": 200,
+   "id": "therealwh-eu",
+   "kind": "github",
+   "ms": 118,
+   "status": "ok",
+   "url": "https://raw.githubusercontent.com/Therealwh/MTPproxyLIST/refs/heads/main/verified/proxy_eu_verified.txt",
+   "verified": 130
+  },
+  {
+   "attempts": 1,
+   "error": null,
+   "exclusive_verified_servers": 5,
+   "found": 342,
+   "http": 200,
+   "id": "surfboard",
+   "kind": "github",
+   "ms": 113,
+   "status": "ok",
+   "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGProto/refs/heads/main/proxies.txt",
+   "verified": 260
+  },
+  {
+   "attempts": 1,
+   "error": null,
+   "exclusive_verified_servers": 0,
+   "found": 459,
+   "http": 200,
+   "id": "argh94-scraper",
+   "kind": "github",
+   "ms": 389,
+   "status": "ok",
+   "url": "https://raw.githubusercontent.com/Argh94/telegram-proxy-scraper/refs/heads/main/proxy.txt",
+   "verified": 442
+  },
+  {
+   "attempts": 1,
+   "error": null,
+   "exclusive_verified_servers": 0,
    "found": 17,
    "http": 200,
    "id": "airuop",
    "kind": "github",
-   "ms": 87,
+   "ms": 371,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/Airuop/MTProtoCollector/main/proxy/mtproto.json",
    "verified": 14
@@ -248,62 +248,62 @@
    "http": 200,
    "id": "whitegram",
    "kind": "github",
-   "ms": 393,
+   "ms": 390,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/whitegramseo/mtproxy-list/main/mtproto_proxies.json",
-   "verified": 3
+   "verified": 2
   },
   {
    "attempts": 1,
    "error": null,
    "exclusive_verified_servers": 0,
-   "found": 386,
+   "found": 374,
    "http": 200,
    "id": "solispirit",
    "kind": "github",
-   "ms": 68,
+   "ms": 126,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/SoliSpirit/mtproto/master/all_proxies.txt",
-   "verified": 346
+   "verified": 345
   },
   {
    "attempts": 1,
    "error": null,
    "exclusive_verified_servers": 0,
-   "found": 427,
+   "found": 420,
    "http": 200,
    "id": "argh94",
    "kind": "github",
-   "ms": 96,
+   "ms": 450,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/Argh94/Proxy-List/main/MTProto.txt",
-   "verified": 388
+   "verified": 398
   },
   {
    "attempts": 1,
    "error": null,
-   "exclusive_verified_servers": 17,
-   "found": 657,
+   "exclusive_verified_servers": 21,
+   "found": 674,
    "http": 200,
    "id": "onlymeoneme",
    "kind": "github",
-   "ms": 407,
+   "ms": 105,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/onlymeoneme/mtproto/refs/heads/main/all_proxies_list.txt",
-   "verified": 513
+   "verified": 581
   },
   {
    "attempts": 1,
    "error": null,
    "exclusive_verified_servers": 0,
-   "found": 453,
+   "found": 459,
    "http": 200,
    "id": "shablin",
    "kind": "github",
-   "ms": 349,
+   "ms": 370,
    "status": "ok",
    "url": "https://raw.githubusercontent.com/shablin/mtproto-proxy/refs/heads/main/data/valid_proxy.txt",
-   "verified": 373
+   "verified": 398
   },
   {
    "attempts": 1,
@@ -313,23 +313,23 @@
    "http": 200,
    "id": "tg-proxy_telegramt",
    "kind": "telegram",
-   "ms": 836,
+   "ms": 960,
    "status": "ok",
    "url": "https://t.me/s/proxy_telegramt",
-   "verified": 70
+   "verified": 68
   },
   {
    "attempts": 1,
    "error": null,
    "exclusive_verified_servers": 0,
-   "found": 35,
+   "found": 33,
    "http": 200,
    "id": "tg-ProxyMTProto",
    "kind": "telegram",
-   "ms": 727,
+   "ms": 826,
    "status": "ok",
    "url": "https://t.me/s/ProxyMTProto",
-   "verified": 25
+   "verified": 27
   },
   {
    "attempts": 1,
@@ -339,7 +339,7 @@
    "http": 200,
    "id": "tg-proxy_mtm",
    "kind": "telegram",
-   "ms": 786,
+   "ms": 898,
    "status": "ok",
    "url": "https://t.me/s/proxy_mtm",
    "verified": 5
@@ -348,11 +348,11 @@
    "attempts": 1,
    "error": null,
    "exclusive_verified_servers": 0,
-   "found": 19,
+   "found": 18,
    "http": 200,
    "id": "tg-MTPROTO_MTPROXY_Telegram",
    "kind": "telegram",
-   "ms": 800,
+   "ms": 925,
    "status": "ok",
    "url": "https://t.me/s/MTPROTO_MTPROXY_Telegram",
    "verified": 15
@@ -361,14 +361,14 @@
    "attempts": 1,
    "error": null,
    "exclusive_verified_servers": 0,
-   "found": 28,
+   "found": 29,
    "http": 200,
    "id": "tg-TelMTProto",
    "kind": "telegram",
-   "ms": 735,
+   "ms": 834,
    "status": "ok",
    "url": "https://t.me/s/TelMTProto",
-   "verified": 25
+   "verified": 26
   },
   {
    "attempts": 1,
@@ -378,7 +378,7 @@
    "http": 200,
    "id": "tg-Myporoxy",
    "kind": "telegram",
-   "ms": 777,
+   "ms": 876,
    "status": "ok",
    "url": "https://t.me/s/Myporoxy",
    "verified": 0
@@ -386,34 +386,34 @@
   {
    "attempts": 1,
    "error": null,
-   "exclusive_verified_servers": 0,
+   "exclusive_verified_servers": 1,
    "found": 25,
    "http": 200,
    "id": "tg-TProxyRU",
    "kind": "telegram",
-   "ms": 746,
+   "ms": 853,
    "status": "ok",
    "url": "https://t.me/s/TProxyRU",
-   "verified": 19
+   "verified": 20
   },
   {
    "attempts": 1,
    "error": null,
-   "exclusive_verified_servers": 0,
-   "found": 26,
+   "exclusive_verified_servers": 1,
+   "found": 28,
    "http": 200,
    "id": "tg-mtp4tg",
    "kind": "telegram",
-   "ms": 764,
+   "ms": 869,
    "status": "ok",
    "url": "https://t.me/s/mtp4tg",
    "verified": 23
   }
  ],
  "timings_s": {
-  "dns": 61.83,
-  "fetch": 0.85,
-  "probe": 120.35
+  "dns": 63.07,
+  "fetch": 0.98,
+  "probe": 124.1
  },
- "updated": "2026-11-27T17:53:13Z"
+ "updated": "2026-11-28T01:08:24Z"
 }
